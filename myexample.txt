@@ -1,0 +1,6 @@
+My name is Dhanshree Dhrafani
+This is an example file to try adding file in git.
+Trying the vi editor.
+hello
+hi 
+ssup
